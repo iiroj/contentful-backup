@@ -1,6 +1,6 @@
 {
   "name": "contentful-backup",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A node script for syncing backups (exports) of Contentful Spaces locally and to an AWS S3 bucket",
   "author": "Iiro Jäppinen <iiro@jappinen.fi> (https://iiro.fi)",
   "private": true,
