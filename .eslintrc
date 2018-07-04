@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    "node",
+    "standard",
+    "prettier"
+  ],
+  "extends": [
+    "plugin:node/recommended",
+    "prettier",
+    "prettier/standard"
+  ],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": true,
+        "printWidth": 120
+      }
+    ]
+  },
+  "env": {
+    "es6": true,
+    "node": true
+  }
+}
