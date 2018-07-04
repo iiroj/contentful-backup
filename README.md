@@ -6,7 +6,7 @@ A node script for syncing backups (exports) of Contentful Spaces locally and to 
 
 ```bash
 git clone https://gitlab.com/iiroj/contentful-backup.git
-cd ./contentful-backup-client
+cd ./contentful-backup
 npm install
 node ./cli.js
 ls -l ./export
