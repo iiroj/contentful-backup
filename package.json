@@ -15,8 +15,7 @@
     "lint": "eslint .",
     "version": "standard-version",
     "prerelease": "npm run lint",
-    "release": "git push --follow-tags origin master",
-    "postrelease": "npm publish"
+    "release": "git push --follow-tags origin master"
   },
   "dependencies": {
     "aws-sdk": "^2.294.0",
