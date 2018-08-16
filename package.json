@@ -2,6 +2,7 @@
   "name": "contentful-backup",
   "version": "1.0.0",
   "description": "A node script for syncing backups (exports) of Contentful Spaces locally and to an AWS S3 bucket",
+  "license": "MIT",
   "author": "Iiro Jäppinen <iiro@jappinen.fi> (https://iiro.fi)",
   "homepage": "https://gitlab.com/iiroj/contentful-backup",
   "repository": "gitlab:iiroj/contentful-backup",
