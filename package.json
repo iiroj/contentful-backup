@@ -3,19 +3,23 @@
   "version": "0.2.1",
   "description": "A node script for syncing backups (exports) of Contentful Spaces locally and to an AWS S3 bucket",
   "author": "Iiro Jäppinen <iiro@jappinen.fi> (https://iiro.fi)",
-  "private": true,
   "homepage": "https://gitlab.com/iiroj/contentful-backup",
   "repository": "gitlab:iiroj/contentful-backup",
   "bugs": "https://gitlab.com/iiroj/contentful-backup/issues",
   "engines": {
     "node": ">= 8.11"
   },
-  "bin": "./contentful-backup-client",
+  "bin": "cli.js",
+  "files": [
+    "lib",
+    "cli.js"
+  ],
   "scripts": {
     "lint": "eslint .",
     "version": "standard-version",
     "prerelease": "npm run lint",
-    "release": "git push --follow-tags origin master"
+    "release": "git push --follow-tags origin master",
+    "postrelease": "npm publish"
   },
   "dependencies": {
     "aws-sdk": "^2.294.0",

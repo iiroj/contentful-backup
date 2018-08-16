@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 'use-stric';
 
 const run = require('./lib/run');
