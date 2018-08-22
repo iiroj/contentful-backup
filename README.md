@@ -1,14 +1,12 @@
 # Contentful Backup
 
-A node script for syncing backups (exports) of Contentful Spaces locally and to an AWS S3 bucket.
+A client for syncing backups (exports) of Contentful Spaces locally and to an AWS S3 bucket.
 
 # Usage
 
 ```bash
-git clone https://gitlab.com/iiroj/contentful-backup.git
-cd ./contentful-backup
-npm install
-node ./cli.js
+npm i -g contentful-backup
+contentful-backup
 ls -l ./export
 ```
 
