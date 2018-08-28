@@ -1,6 +1,6 @@
 {
   "name": "contentful-backup",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A client for syncing backups (exports) of Contentful Spaces locally and to an AWS S3 bucket",
   "license": "MIT",
   "author": "Iiro Jäppinen <iiro@jappinen.fi> (https://iiro.fi)",
