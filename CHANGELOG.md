@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.12"></a>
+## [1.0.12](https://gitlab.com/iiroj/contentful-backup/compare/v1.0.11...v1.0.12) (2018-12-26)
+
+
+
 <a name="1.0.11"></a>
 ## [1.0.11](https://gitlab.com/iiroj/contentful-backup/compare/v1.0.10...v1.0.11) (2018-11-30)
 
