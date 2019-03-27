@@ -23,14 +23,14 @@
     "prepublishOnly": "npm run version && npm run push"
   },
   "dependencies": {
-    "aws-sdk": "^2.422.0",
+    "aws-sdk": "^2.429.0",
     "chalk": "^2.4.2",
-    "contentful-cli": "^0.24.0",
+    "contentful-cli": "^0.26.1",
     "make-dir": "^2.1.0",
     "s3": "^4.4.0"
   },
   "devDependencies": {
-    "eslint": "^5.15.2",
+    "eslint": "^5.15.3",
     "eslint-config-prettier": "^4.1.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.16.0",
