@@ -23,9 +23,9 @@
     "prepublishOnly": "npm run version && npm run push"
   },
   "dependencies": {
-    "aws-sdk": "^2.444.0",
+    "aws-sdk": "^2.453.0",
     "chalk": "^2.4.2",
-    "contentful-cli": "^0.26.4",
+    "contentful-cli": "^0.26.5",
     "make-dir": "^3.0.0",
     "s3": "^4.4.0"
   },
@@ -34,11 +34,11 @@
     "eslint-config-prettier": "^4.2.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.17.2",
-    "eslint-plugin-node": "^8.0.1",
-    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-node": "^9.0.1",
+    "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-standard": "^4.0.0",
     "prettier": "^1.17.0",
-    "standard-version": "^5.0.2"
+    "standard-version": "^6.0.1"
   }
 }
