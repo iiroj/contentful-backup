@@ -26,19 +26,19 @@
     }
   },
   "dependencies": {
-    "aws-sdk": "^2.518.0",
+    "aws-sdk": "^2.533.0",
     "chalk": "^2.4.2",
-    "contentful-cli": "^0.36.2",
+    "contentful-cli": "^1.1.0",
     "make-dir": "^3.0.0",
     "s3": "^4.4.0"
   },
   "devDependencies": {
-    "eslint": "^6.2.2",
-    "eslint-config-prettier": "^6.1.0",
-    "eslint-config-standard": "^14.0.1",
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^9.1.0",
-    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "prettier": "^1.18.2",
