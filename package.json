@@ -1,6 +1,6 @@
 {
   "name": "contentful-backup",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "description": "A client for syncing backups (exports) of Contentful Spaces locally and to an AWS S3 bucket",
   "license": "MIT",
   "author": "Iiro Jäppinen <iiro@jappinen.fi> (https://iiro.fi)",
@@ -26,19 +26,19 @@
     }
   },
   "dependencies": {
-    "aws-sdk": "^2.578.0",
+    "aws-sdk": "^2.596.0",
     "chalk": "^3.0.0",
-    "contentful-cli": "^1.1.5",
+    "contentful-cli": "^1.2.3",
     "make-dir": "^3.0.0",
     "s3": "^4.4.0"
   },
   "devDependencies": {
-    "eslint": "^6.7.0",
-    "eslint-config-prettier": "^6.7.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
     "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^10.0.0",
-    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "prettier": "^1.19.1",

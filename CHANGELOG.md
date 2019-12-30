@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.32](https://github.com/iiroj/contentful-backup/compare/v1.0.31...v1.0.32) (2019-12-30)
+
 ### [1.0.31](https://github.com/iiroj/contentful-backup/compare/v1.0.30...v1.0.31) (2019-11-24)
 
 ### [1.0.30](https://github.com/iiroj/contentful-backup/compare/v1.0.29...v1.0.30) (2019-09-22)
